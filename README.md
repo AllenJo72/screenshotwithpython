@@ -1,6 +1,6 @@
 
 # screenshotwithpython
-This script allows you to take a screen shot with your preferable size and part of the screen, BUT you have to provide its X and Y positions. Yes its a pain, but it works.
+This script allows you to take a screen shot of your whole screen and also the preferable size and part of the screen, BUT you have to provide its X and Y positions and the screen size. Yes its a pain, but it works.
 
 
 
