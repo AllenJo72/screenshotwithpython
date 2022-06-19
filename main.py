@@ -56,7 +56,7 @@ elif qs == "C":
         root = tk.Tk()
         print("")
         print("####################################")
-        print("A new window should have poppep up.\nIt is showing a sample of the size that is going to be captured.\nClose it to continue") 
+        print("A new window should have popped up.\nIt is showing a sample of the size that is going to be captured.\nClose it to continue") 
         print("####################################")
         print("")
         root.title("Close me to capture the shot.")
